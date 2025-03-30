@@ -1,8 +1,9 @@
 public class OOPS11a {
     public static void main(String[] args) {
-      Student s2 = new Student();
-      s2.schoolname = "Satyug";
-      
+            Student s2 = new Student();
+            s2.schoolname = "Satyug";
+            System.out.println(s2.schoolname);
+
             Student s3 = new Student();
             System.out.println(s3.schoolname);
             

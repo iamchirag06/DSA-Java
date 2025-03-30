@@ -4,6 +4,7 @@ public class OOPS12 {
         System.out.println(h.color);
     }
 }
+
 class Animal{
     String color;
     Animal(){
