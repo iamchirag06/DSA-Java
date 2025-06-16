@@ -1,3 +1,4 @@
+// Print Sum Of First N Natural Numbers
 public class Ques4 {
     public static int sum(int n) {
         if (n == 1) {
