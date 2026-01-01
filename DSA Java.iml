@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Day01_Variables&amp;DataTypes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day02_Operators&amp;ConditionalStt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day03_Loops(Flow Controls)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day04_Pattern(Basics)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day05_Function&amp;Methods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day06_Pattern(Advanced)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day07_Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day08_Basic Sorting Algorthim" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day09_2D Arryas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day10_Strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day11_BitManipulaton" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day12_Exception" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day12_OOPS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day13_RecursionBasics" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
