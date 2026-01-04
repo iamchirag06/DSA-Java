@@ -1,3 +1,11 @@
+/*
+                TILING PROBLEM
+Given a "2*N" floor and Tiles of Size"2*1", count the number of ways to tle the given board using the 2*1 Tiles
+(A Tile can be placed horizontal or vertical)
+
+[AMAZON]
+
+*/
 public class Ques11 {
     public static int tilingProblem(int n){ //2*n (floor Size)
         //Base case
